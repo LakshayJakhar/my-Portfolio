@@ -84,6 +84,11 @@
     opacity: 1;
 }
 
+.wise{
+        width: 25rem;
+      }
+
+
 @media(max-width:777px){
     .header .social i{
         font-size: 25px;
@@ -100,6 +105,9 @@
     .work-img {
         width: 200px;   
          
+      }
+      .wise{
+        width: 20rem;
       }
 }
 
